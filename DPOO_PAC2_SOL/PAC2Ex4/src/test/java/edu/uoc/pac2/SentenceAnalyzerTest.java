@@ -89,4 +89,5 @@ public class SentenceAnalyzerTest {
         assertEquals("Hello, World!", SentenceAnalyzer.decrypt("Czggj, Rjmgy!", -5));
         assertEquals("Zxc, vbn!", SentenceAnalyzer.decrypt("Jhm, flx!", 10));
     }
+
 }

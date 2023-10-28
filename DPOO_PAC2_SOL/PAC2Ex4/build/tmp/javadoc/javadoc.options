@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\marca\\IdeaProjects\\DPOO_PAC2\\PAC2Ex4\\build\\classes\\java\\main;C:\\Users\\marca\\IdeaProjects\\DPOO_PAC2\\PAC2Ex4\\build\\resources\\main'
+-d 'C:\\Users\\marca\\IdeaProjects\\DPOO_PAC2\\PAC2Ex4\\build\\docs\\javadoc'
+-doctitle 'PAC2Ex4 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'PAC2Ex4 1.0-SNAPSHOT API'
+'C:\\Users\\marca\\IdeaProjects\\DPOO_PAC2\\PAC2Ex4\\src\\main\\java\\edu\\uoc\\pac2\\SentenceAnalyzer.java'
