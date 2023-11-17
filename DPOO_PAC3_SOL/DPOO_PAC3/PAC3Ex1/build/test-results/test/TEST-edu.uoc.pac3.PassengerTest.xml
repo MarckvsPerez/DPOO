@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.PassengerTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2023-11-17T22:29:42" hostname="MARC" time="0.037">
+  <properties/>
+  <testcase name="testSetHeightInvalid()" classname="edu.uoc.pac3.PassengerTest" time="0.014"/>
+  <testcase name="testSetDateOfBirthInvalid()" classname="edu.uoc.pac3.PassengerTest" time="0.002"/>
+  <testcase name="testConstructorsInvalid()" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac3.PassengerTest" time="0.002"/>
+  <testcase name="testSettersValid()" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="testSetNameInvalid()" classname="edu.uoc.pac3.PassengerTest" time="0.002"/>
+  <testcase name="testSetPhoneNumberInvalid()" classname="edu.uoc.pac3.PassengerTest" time="0.004"/>
+  <testcase name="testSetOccupationInvalid()" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="testSetAddressInvalid()" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="testSetPassportNull()" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="testSetHeightValid()" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="testHasSpecialNeeds()" classname="edu.uoc.pac3.PassengerTest" time="0.0"/>
+  <testcase name="testPassportAssociation()" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="testSetNationality()" classname="edu.uoc.pac3.PassengerTest" time="0.0"/>
+  <testcase name="testSetPassportValid()" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="testSetNationalityInvalid()" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac3.PassengerTest" time="0.001"/>
+  <testcase name="testPassportInvalid()" classname="edu.uoc.pac3.PassengerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
