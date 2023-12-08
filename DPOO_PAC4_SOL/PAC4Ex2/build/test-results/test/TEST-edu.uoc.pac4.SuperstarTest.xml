@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.SuperstarTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2023-12-08T14:55:25" hostname="MARC" time="0.035">
+  <properties/>
+  <testcase name="Sanity - Class definition" classname="edu.uoc.pac4.SuperstarTest" time="0.008"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac4.SuperstarTest" time="0.002"/>
+  <testcase name="getBirthDate()" classname="edu.uoc.pac4.SuperstarTest" time="0.001"/>
+  <testcase name="getBirthName()" classname="edu.uoc.pac4.SuperstarTest" time="0.0"/>
+  <testcase name="setGender()" classname="edu.uoc.pac4.SuperstarTest" time="0.0"/>
+  <testcase name="setHeight()" classname="edu.uoc.pac4.SuperstarTest" time="0.002"/>
+  <testcase name="setBirthDate()" classname="edu.uoc.pac4.SuperstarTest" time="0.002"/>
+  <testcase name="setBirthName()" classname="edu.uoc.pac4.SuperstarTest" time="0.002"/>
+  <testcase name="getGender()" classname="edu.uoc.pac4.SuperstarTest" time="0.001"/>
+  <testcase name="getHeight()" classname="edu.uoc.pac4.SuperstarTest" time="0.001"/>
+  <testcase name="setWeight()" classname="edu.uoc.pac4.SuperstarTest" time="0.0"/>
+  <testcase name="setRingName()" classname="edu.uoc.pac4.SuperstarTest" time="0.001"/>
+  <testcase name="getRingName()" classname="edu.uoc.pac4.SuperstarTest" time="0.0"/>
+  <testcase name="getBirthplace()" classname="edu.uoc.pac4.SuperstarTest" time="0.0"/>
+  <testcase name="getWeight()" classname="edu.uoc.pac4.SuperstarTest" time="0.0"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac4.SuperstarTest" time="0.001"/>
+  <testcase name="setBirthplace()" classname="edu.uoc.pac4.SuperstarTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

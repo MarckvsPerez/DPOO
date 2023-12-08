@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.wrestler.properties.StaminaPropertiesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-12-08T14:55:30" hostname="MARC" time="0.002">
+  <properties/>
+  <testcase name="getArmDurability()" classname="edu.uoc.pac4.wrestler.properties.StaminaPropertiesTest" time="0.001"/>
+  <testcase name="getBodyDurability()" classname="edu.uoc.pac4.wrestler.properties.StaminaPropertiesTest" time="0.0"/>
+  <testcase name="getLegDurability()" classname="edu.uoc.pac4.wrestler.properties.StaminaPropertiesTest" time="0.0"/>
+  <testcase name="getOverall()" classname="edu.uoc.pac4.wrestler.properties.StaminaPropertiesTest" time="0.0"/>
+  <testcase name="size()" classname="edu.uoc.pac4.wrestler.properties.StaminaPropertiesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

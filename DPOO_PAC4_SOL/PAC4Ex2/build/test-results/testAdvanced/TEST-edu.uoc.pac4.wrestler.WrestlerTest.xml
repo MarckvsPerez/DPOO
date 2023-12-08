@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.wrestler.WrestlerTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2023-12-08T14:55:30" hostname="MARC" time="0.043">
+  <properties/>
+  <testcase name="getDefense()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.004"/>
+  <testcase name="setSignature()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
+  <testcase name="WrestlerWithAttributesSumOutRange()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.002"/>
+  <testcase name="testSpeak()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.001"/>
+  <testcase name="isFace()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.001"/>
+  <testcase name="testToString()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.014"/>
+  <testcase name="getStamina()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.001"/>
+  <testcase name="testCompareTo()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
+  <testcase name="setProperties()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.001"/>
+  <testcase name="getStrength()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
+  <testcase name="getOverall()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
+  <testcase name="getAgility()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
+  <testcase name="setEnergy()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.001"/>
+  <testcase name="getEnergy()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
+  <testcase name="WrestlerWithAttributesNotInRange()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.001"/>
+  <testcase name="getSignature()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.001"/>
+  <testcase name="setFinisher()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.001"/>
+  <testcase name="getFinisher()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
+  <testcase name="getWeightClass()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.001"/>
+  <testcase name="getTechnique()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
+  <testcase name="setFace()" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
