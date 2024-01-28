@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.uoc.pac4.wrestler.WrestlerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-08T14:55:32" hostname="MARC" time="0.005">
-  <properties/>
-  <testcase name="Sanity - Class definition" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.003"/>
-  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
-  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac4.wrestler.WrestlerTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

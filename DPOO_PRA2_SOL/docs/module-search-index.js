@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"edu.uoc.uocanoid"}];updateSearchResults();

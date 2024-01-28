@@ -1,8 +1,0 @@
--classpath 'C:\\Users\\marca\\IdeaProjects\\DPOO_PAC2\\PAC2Ex2\\build\\classes\\java\\main;C:\\Users\\marca\\IdeaProjects\\DPOO_PAC2\\PAC2Ex2\\build\\resources\\main'
--d 'C:\\Users\\marca\\IdeaProjects\\DPOO_PAC2\\PAC2Ex2\\build\\docs\\javadoc'
--doctitle 'PAC2Ex2 1.0-SNAPSHOT API'
--private 
--notimestamp 
--quiet 
--windowtitle 'PAC2Ex2 1.0-SNAPSHOT API'
-'C:\\Users\\marca\\IdeaProjects\\DPOO_PAC2\\PAC2Ex2\\src\\main\\java\\edu\\uoc\\pac2\\Book.java'

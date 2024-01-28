@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.uoc.pac4.wrestler.styles.StrikerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-08T14:55:30" hostname="MARC" time="0.001">
-  <properties/>
-  <testcase name="testToString()" classname="edu.uoc.pac4.wrestler.styles.StrikerTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
